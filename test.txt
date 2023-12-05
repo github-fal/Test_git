@@ -1,2 +1,3 @@
 Initial commit!
-new line
+Second commit!
+Third commit!
